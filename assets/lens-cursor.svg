@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <circle cx="16" cy="16" r="14" fill="#171713" stroke="#faedd6" stroke-width="1.5"/>
+  <path d="M16 2 A14 14 0 0 1 30 16" fill="none" stroke="#cf1e24" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="16" cy="3" r="1.5" fill="#faedd6"/>
+  <circle cx="16" cy="16" r="10.5" fill="#292929" stroke="#cf1e24"/>
+  <g fill="none" stroke="#faedd6" stroke-opacity=".55" stroke-width=".7">
+    <path d="M16 5.5 20 12M25.1 10.75 21.5 16M25.1 21.25 18 21M16 26.5 12 20M6.9 21.25 10.5 16M6.9 10.75 14 11"/>
+  </g>
+  <circle class="lens-aperture" cx="16" cy="16" r="5.5" fill="#000" stroke="#cf1e24" stroke-width="1"/>
+  <circle cx="14" cy="14" r="1.5" fill="#faedd6" opacity=".65"/>
+</svg>

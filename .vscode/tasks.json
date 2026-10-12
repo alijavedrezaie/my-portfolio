@@ -1,0 +1,13 @@
+{
+  "version": "2.0.0",
+  "tasks": [{
+    "label": "Start portfolio",
+    "type": "process",
+    "command": "/Users/ali/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/bin/node",
+    "args": ["server.mjs"],
+    "isBackground": true,
+    "options": { "cwd": "${workspaceFolder}" },
+    "problemMatcher": [],
+    "presentation": { "reveal": "always", "panel": "dedicated" }
+  }]
+}
